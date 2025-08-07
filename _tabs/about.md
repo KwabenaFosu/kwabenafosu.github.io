@@ -8,7 +8,7 @@ I’m a **Solutions Analyst** with a strong focus on building internal automatio
 
 Most of my work today revolves around improving workflows for support teams by developing bots, automated integrations, and custom data pipelines. My background  and previous experiences blends customer and technical  supoport roles, which has sharpened my drive to improve user experience by building quality tools and services.
 
-I’m especially interested in automation, systems reliability, and performance engineering — with a growing curiosity about how Linux internals and infrastructure choices shape system behavior in production.
+I’m especially interested in automation, systems reliability, and performance engineering- with a growing curiosity about how Linux internals and infrastructure choices shape system behavior in production.
 
 My current goal is to evolve into a **Site Reliability Engineer** with deep expertise in systems performance, distributed systems, and observability.
 
@@ -34,8 +34,7 @@ My current goal is to evolve into a **Site Reliability Engineer** with deep expe
 
 ---
 
-When I’m not doing any of the above, I enjoy watching football, listening to alternative rap music and playing video games. I proudly claim the title of being the **biggest Manchester United fan at heart** and often wonder what could’ve been if SAF had stayed forever.
-
+When I’m not doing any of the above, I enjoy watching football, listening to alternative rap music and playing video games. 
 The best place to reach me is on Twitter [@the_kwabenafosu](https://twitter.com/the_kwabenafosu), where you’ll also find my football rants.
 
 This blog is a space for me to share **learnings, ramblings, life lessons**, and anything else I feel like writing about.
