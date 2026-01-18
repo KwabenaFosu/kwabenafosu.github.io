@@ -16,7 +16,7 @@ timezone:
 
 title: Nathaniel Ofosu Asiedu # the main title
 
-tagline: Solutions Engineer # it will display as the subtitle
+tagline: Technical Support Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 
@@ -90,7 +90,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
